@@ -1,0 +1,15 @@
+C:\projetos\projeto-estacionamento-csharp\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.exe
+C:\projetos\projeto-estacionamento-csharp\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.deps.json
+C:\projetos\projeto-estacionamento-csharp\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.runtimeconfig.json
+C:\projetos\projeto-estacionamento-csharp\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.dll
+C:\projetos\projeto-estacionamento-csharp\trilha-net-fundamentos-desafio\DesafioFundamentos\bin\Debug\net8.0\DesafioFundamentos.pdb
+C:\projetos\projeto-estacionamento-csharp\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.GeneratedMSBuildEditorConfig.editorconfig
+C:\projetos\projeto-estacionamento-csharp\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfoInputs.cache
+C:\projetos\projeto-estacionamento-csharp\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.AssemblyInfo.cs
+C:\projetos\projeto-estacionamento-csharp\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.csproj.CoreCompileInputs.cache
+C:\projetos\projeto-estacionamento-csharp\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.sourcelink.json
+C:\projetos\projeto-estacionamento-csharp\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.dll
+C:\projetos\projeto-estacionamento-csharp\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net8.0\refint\DesafioFundamentos.dll
+C:\projetos\projeto-estacionamento-csharp\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.pdb
+C:\projetos\projeto-estacionamento-csharp\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net8.0\DesafioFundamentos.genruntimeconfig.cache
+C:\projetos\projeto-estacionamento-csharp\trilha-net-fundamentos-desafio\DesafioFundamentos\obj\Debug\net8.0\ref\DesafioFundamentos.dll
